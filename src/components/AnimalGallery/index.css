@@ -1,0 +1,12 @@
+.hayvon{
+    border: 1px solid black;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.tur{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}

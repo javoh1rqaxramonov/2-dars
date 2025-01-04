@@ -1,0 +1,15 @@
+h2{
+    color: green;
+    font-size: 30px;
+}
+p{
+    color: blue;
+    font-size: 25px;
+}
+.salom{
+    border: 1px solid black;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

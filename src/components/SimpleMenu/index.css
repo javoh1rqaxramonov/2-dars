@@ -1,0 +1,21 @@
+.oddiy{
+    border: 1px solid black;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.li {
+    display: flex;
+    gap: 15px;
+    padding: 0;
+}
+.li li a{
+    text-decoration: none;
+    transition: all 1.5s;
+    font-size: 25px;
+}
+.li li a:hover{
+    color: red;
+}

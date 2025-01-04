@@ -1,0 +1,15 @@
+.shahar{
+    border: 1px solid black;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.ul{
+    display: flex;
+    gap: 10px;
+}
+li{
+    list-style: none;
+}
